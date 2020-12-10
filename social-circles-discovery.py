@@ -1,6 +1,6 @@
 # Instructions
 #######################
-# python GA-node-edge-K-means-clustering.py or python3 GA-node-edge-K-means-clustering.py
+# python social-circles-discovery.py or python3 social-circles-discovery.py
 #######################
 
 # imports
